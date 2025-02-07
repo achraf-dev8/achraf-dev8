@@ -1,5 +1,7 @@
 # 👋 HI
 I'm Achraf eddine, a passionate indie softaware enginner and developer, specialized in mobile app development and publishing them on app stores for more than 4 years.<br><br>💼 I have experience in building full mobile apps by diffrent technologies(native using java and kotlin, flutter), and building the backend of websites(using php, python, java)<br>🌱 I am always trying to develop myself and learn new programming technologies and skills in all feilds.<br>👔 I am always open to take projects.<br><br>Let’s build something awesome! 💻🚀<br>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laifa-achraf-eddine) 
 
 ## 💻 Tech Stack:
