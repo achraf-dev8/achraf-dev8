@@ -10,10 +10,10 @@ I'm Achraf eddine, a passionate indie softaware enginner and developer, speciali
 ![](https://github-readme-streak-stats.herokuapp.com/?user=achraf-dev8&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-dev8&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-#### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=achraf-dev8&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-  ### 💰 You can help me by Donating
+  ## ☕ Buy Me a Coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alabamacity08@gmail.com) 
 
   
