@@ -1,19 +1,58 @@
-# 👋 HI
-I'm Achraf eddine, a passionate indie softaware enginner and developer, specialized in mobile app development with experience in building web applications.<br><br>💼 I have experience in building full mobile apps (native using java and kotlin, flutter) and publishing them on app stores for more than 5 years.<br>💼 +3 years experience in devoliping web applications using Reactjs and building APIs using diffrent methods(php, nodJs using express, python).<br>💼 Working knowledge of AI machine learning using Python, integrating models into web applications; currently expanding my expertise!<br>🌱 I am always trying to develop myself and learn new programming technologies and skills in all feilds.<br>👔 I am always open to take projects.<br><br>Let’s build something awesome! 💻🚀<br>
+# 🚀 Hello, I'm Achraf eddine
+**Indie Software Engineer | Mobile Specialist | AI Enthusiast**
 
+I bridge the gap between complex backend logic and seamless mobile experiences. With over 5 years of shipping apps to production, I focus on building scalable, performant, and user-centric digital products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laifa-achraf-eddine) 
+[![](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laifa-achraf-eddine)
+[![](https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=github&logoColor=white)](mailto:your-email@example.com)
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=achraf-dev8&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=achraf-dev8&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-dev8&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 🛠 My Expertise
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=achraf-dev8&limit=5&theme=radical&combine_all_yearly_contributions=true)
+* **Mobile Excellence:** 5+ years crafting native (Java/Kotlin) and cross-platform (Flutter) applications with successful App Store/Play Store launches.
+* **Full-Stack Web:** 3+ years developing responsive interfaces with **React.js** and robust APIs using **Node.js, Python, and PHP**.
+* **AI Integration:** Actively implementing Machine Learning models into web ecosystems to create "smart" user experiences.
+* **Design Driven:** Bridging the gap between code and UI using **Figma** for high-fidelity prototyping.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🧰 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Dart` `Python` `Java` `Kotlin` `JavaScript` `C` |
+| **Frameworks** | `Flutter` `React.js` `Express.js` |
+| **Backend/DB** | `Node.js` `Firebase` `MySQL` `SQLite` `REST APIs` |
+| **Design/Tools** | `Figma` `Git` `Postman` |
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achraf-dev8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Achraf's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-dev8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achraf-dev8&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 🌟 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=achraf-dev8&limit=4&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate
+I am currently **open to new projects** and interesting collaborations. Whether you have a startup idea or need to scale an existing application, let's build something awesome.
+
+* **Learning:** Advanced Deep Learning & Large Language Model (LLM) integration.
+* **Goal:** Contributing more to Open Source Flutter packages.
+
+---
+<p align="center">Proudly created by Achraf eddine 💻🚀</p>
