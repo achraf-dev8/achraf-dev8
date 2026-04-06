@@ -15,8 +15,5 @@ I'm Achraf eddine, a passionate indie softaware enginner and developer, speciali
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=achraf-dev8&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-  ## ☕ Buy Me a Coffee
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alabamacity08@gmail.com) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
