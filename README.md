@@ -16,7 +16,7 @@ I am open to **new projects** and **freelance opportunities**. Whether you have 
 
 ### 🛠 Technical Experience
 
-* **Mobile & Freelance Mastery:** **5+ years** building native (Java/Kotlin) and cross-platform (Flutter) apps and publishing them on the **Google Play Store**. I Also, I handeled the full develmopent of many freelance projects for clients (mobile apps and websites).
+* **Mobile & Freelance Mastery:** **5+ years** building native (Java/Kotlin) and cross-platform (Flutter) apps and publishing them on the **Google Play Store**. Also, I handeled the full develmopent of many freelance projects for clients (mobile apps and websites).
 * **API Development:** Expert in architecting and building robust APIs using **Node.js (Express)**, **Python**, and **PHP**. I focus on creating scalable backends that power modern secure applications.
 * **Web Engineering:** **3+ years** of building responsive, high-performance web applications using **React.js**.
 * **AI & Machine Learning:** Small experience in building and integrating **Python-based ML models** into applications.
