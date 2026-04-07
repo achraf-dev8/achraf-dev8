@@ -11,7 +11,7 @@ I am open to **new projects** and **freelance opportunities**. Whether you have 
 
 [![](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laifa-achraf-eddine)
 [![](https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=github&logoColor=white)](mailto:your-email@example.com)
-[![Download CV](https://img.shields.io/badge/Download_CV-EF4237?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([[https://github.com/achraf-dev8/achraf-dev8/Resume.pdf](https://github.com/achraf-dev8/achraf-dev8/blob/main/Resume.pdf](https://raw.githubusercontent.com/achraf-dev8/achraf-dev8/main/CV.pdf)))
+[![Download CV](https://img.shields.io/badge/Download_CV-EF4237?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/achraf-dev8/achraf-dev8/main/CV.pdf)
 ---
 
 ### 🛠 Technical Experience
