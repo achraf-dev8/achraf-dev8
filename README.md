@@ -1,10 +1,10 @@
 # 🚀 Hello, I'm Achraf eddine
 **Freelance Software Engineer | Mobile Developement Specialist | API Architect**
 <p align="center">
-  <img src="rocket.gif" width="120" />
+  <img src="Startup.gif" width="120" />
 </p>
 
-I am a passionate indie software engineer with **5+ years of experience** in the mobile and web developement. I specialize in turning business ideas into functional, market-ready products. I have a track record of developing and publishing mobile applications on the **Google Play Store**, and also working on **Freelance Projects**.
+I am a passionate indie software engineer with **5+ years of experience** in the mobile and web developement. I specialize in turning business ideas into functional, market-ready products. I have a track record of developing and publishing mobile applications on the **Google Play Store**, and also working on **Freelance Projects**. I am eager to work and keep learning new things.
 
 ### 🤝 Let's Collaborate
 I am open to **new projects** and **freelance opportunities**. Whether you have a new business concept, need a robust mobile app or website built for your existing startup or need me to work with a team in a project let's connect!
@@ -16,8 +16,8 @@ I am open to **new projects** and **freelance opportunities**. Whether you have 
 
 ### 🛠 Technical Experience
 
-* **Mobile & Freelance Mastery:** **5+ years** building native (Java/Kotlin) and cross-platform (Flutter) apps. I handle the full lifecycle of freelance projects, from initial concept to successfully publishing on the **Google Play Store**.
-* **API Development:** Expert in architecting and building robust APIs using **Node.js (Express)**, **Python**, and **PHP**. I focus on creating scalable backends that power modern mobile and web experiences.
+* **Mobile & Freelance Mastery:** **5+ years** building native (Java/Kotlin) and cross-platform (Flutter) apps and publishing them on the **Google Play Store**. I Also, I handeled the full develmopent of many freelance projects for clients (mobile apps and websites).
+* **API Development:** Expert in architecting and building robust APIs using **Node.js (Express)**, **Python**, and **PHP**. I focus on creating scalable backends that power modern secure applications.
 * **Web Engineering:** **3+ years** of building responsive, high-performance web applications using **React.js**.
 * **AI & Machine Learning:** Small experience in building and integrating **Python-based ML models** into applications.
 
@@ -27,10 +27,10 @@ I am open to **new projects** and **freelance opportunities**. Whether you have 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Dart` `Python` `Java` `Kotlin` `JavaScript` `C` |
+| **Languages** | `Dart` `Java` `Kotlin` `JavaScript` `Python` `php` `HTML` `CSS``C` |
 | **Frameworks** | `Flutter` `React.js` `Express.js` |
 | **Backend/DB** | `Node.js` `MongoDB` `Firebase` `MySQL` `SQLite` `REST APIs` |
-| **Design/Tools** | `Figma` `Git` `AntiGravity` |
+| **Tools** | `Figma` `Git` `AntiGravity` |
 
 ---
 
