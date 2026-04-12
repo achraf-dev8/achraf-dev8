@@ -10,7 +10,7 @@ I am a passionate indie software engineer with **5+ years of experience** in the
 I am open to **new projects** and **freelance opportunities**. Whether you have a new business concept, need a robust mobile app or website built for your existing startup or need me to work with a team in a project let's connect!
 
 [![](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laifa-achraf-eddine)
-[![](https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=github&logoColor=white)](mailto:crackerappsdevs@gmail.com)
+[![](https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=crackerappsdevs@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-EF4237?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/achraf-dev8/achraf-dev8/main/CV.pdf)
 ---
 
